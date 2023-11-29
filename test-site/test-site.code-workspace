@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "styles"
+		},
+		{
+			"path": "scripts"
+		}
+	],
+	"settings": {}
+}
